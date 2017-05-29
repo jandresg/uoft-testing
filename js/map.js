@@ -723,210 +723,210 @@ $(function () {
         "AE": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">United Arab Emirates</span><br />Total : 7<br />Adult Cardiology (1)<br />Adult Gastroenterology (1)<br />Adult Haematology (2)<br />Adult Respiratory Medicine (1)<br />Adult Rheumatology (1)<br />Occupational Medicine (1)"
+            content: "<span style=\"font-weight:bold;\">United Arab Emirates<br />Total : 7</span><br />Adult Cardiology (1)<br />Adult Gastroenterology (1)<br />Adult Haematology (2)<br />Adult Respiratory Medicine (1)<br />Adult Rheumatology (1)<br />Occupational Medicine (1)"
           }
         },
         
         "CR": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Costa Rica</span><br />Total : 1<br />Dermatology (1)"
+            content: "<span style=\"font-weight:bold;\">Costa Rica<br />Total : 1</span><br />Dermatology (1)"
           }
         },
         
         "NG": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Nigeria</span><br />Total : 1<br />Adult Respiratory Medicine (1)"
+            content: "<span style=\"font-weight:bold;\">Nigeria<br />Total : 1</span><br />Adult Respiratory Medicine (1)"
           }
         },
         
         "IR": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Iran</span><br />Total : 10<br />Adult Cardiology (2)<br />Adult Gastroenterology (1)<br />Adult Neurology (3)<br />General Internal Medicine (4)"
+            content: "<span style=\"font-weight:bold;\">Iran<br />Total : 10</span><br />Adult Cardiology (2)<br />Adult Gastroenterology (1)<br />Adult Neurology (3)<br />General Internal Medicine (4)"
           }
         },
         
         "SD": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Sudan</span><br />Total : 2<br />Adult Cardiology (1)<br />Adult Haematology (1)"
+            content: "<span style=\"font-weight:bold;\">Sudan<br />Total : 2</span><br />Adult Cardiology (1)<br />Adult Haematology (1)"
           }
         },
         
         "LK": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Sri-Lanka</span><br />Total : 2<br />Adult Gastroenterology (1)<br />Physical Med & Rehabilitation (1)"
+            content: "<span style=\"font-weight:bold;\">Sri-Lanka<br />Total : 2</span><br />Adult Gastroenterology (1)<br />Physical Med & Rehabilitation (1)"
           }
         },
         
         "KW": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Kuwait</span><br />Total : 6<br />Adult Endocrinology & Metabolism (1)<br />Adult Gastroenterology (1)<br />Adult Nephrology (1)<br />Adult Rheumatology (1)<br />Dermatology (1)<br />Emergency Medicine (1)"
+            content: "<span style=\"font-weight:bold;\">Kuwait<br />Total : 6</span><br />Adult Endocrinology & Metabolism (1)<br />Adult Gastroenterology (1)<br />Adult Nephrology (1)<br />Adult Rheumatology (1)<br />Dermatology (1)<br />Emergency Medicine (1)"
           }
         },
         
         "DE": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Germany</span><br />Total : 4<br />Adult Cardiology (1)<br />Adult Neurology (2)<br />Adult Respiratory Medicine (1)"
+            content: "<span style=\"font-weight:bold;\">Germany<br />Total : 4</span><br />Adult Cardiology (1)<br />Adult Neurology (2)<br />Adult Respiratory Medicine (1)"
           }
         },
         
         "BE": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Belgium</span><br />Total : 1<br />Adult Cardiology (1)"
+            content: "<span style=\"font-weight:bold;\">Belgium<br />Total : 1</span><br />Adult Cardiology (1)"
           }
         },
         
         "IE": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Ireland</span><br />Total : 19<br />Adult Cardiology (3)<br />Adult Gastroenterology (2)<br />Adult Haematology (3)<br />Adult Nephrology (7)<br />Adult Neurology (1)<br />Adult Respiratory Medicine (1)<br />Adult Rheumatology (1)<br />Medical Oncology (1)"
+            content: "<span style=\"font-weight:bold;\">Ireland<br />Total : 19</span><br />Adult Cardiology (3)<br />Adult Gastroenterology (2)<br />Adult Haematology (3)<br />Adult Nephrology (7)<br />Adult Neurology (1)<br />Adult Respiratory Medicine (1)<br />Adult Rheumatology (1)<br />Medical Oncology (1)"
           }
         },
        
         "KR": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">South Korea</span><br />Total : 1<br />General Internal Medicine (1)"
+            content: "<span style=\"font-weight:bold;\">South Korea<br />Total : 1</span><br />General Internal Medicine (1)"
           }
         },
         
         "MM": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Burma</span><br />Total : 1<br />Medical Oncology (1)"
+            content: "<span style=\"font-weight:bold;\">Burma<br />Total : 1</span><br />Medical Oncology (1)"
           }
         },
         
         "DZ": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Algeria</span><br />Total : 1<br />Adult Haematology(1)"
+            content: "<span style=\"font-weight:bold;\">Algeria<br />Total : 1</span><br />Adult Haematology(1)"
           }
         },
         
         "SI": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Slovenia</span><br />Total : 1<br />Medical Oncology (1)"
+            content: "<span style=\"font-weight:bold;\">Slovenia<br />Total : 1</span><br />Medical Oncology (1)"
           }
         },
         
         "JO": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Jordan</span><br />Total : 9<br />Adult Haematology (3)<br />Adult Nephrology (1)<br />Dermatology (1)<br />General Internal Medicine (1)<br />Medical Oncology (3)"
+            content: "<span style=\"font-weight:bold;\">Jordan<br />Total : 9</span><br />Adult Haematology (3)<br />Adult Nephrology (1)<br />Dermatology (1)<br />General Internal Medicine (1)<br />Medical Oncology (3)"
           }
         },
         
         "SY": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Syria</span><br />Total : 2<br />Adult Neurology (1)<br />Medical Oncology (1)"
+            content: "<span style=\"font-weight:bold;\">Syria<br />Total : 2</span><br />Adult Neurology (1)<br />Medical Oncology (1)"
           }
         },
         
         "RS": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Serbia</span><br />Total : 1<br />Medical Oncology (1)"
+            content: "<span style=\"font-weight:bold;\">Serbia<br />Total : 1</span><br />Medical Oncology (1)"
           }
         },
         
         "AT": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Austria</span><br />Total : 1<br />Clinical Pharmacology & Toxicology (1)"
+            content: "<span style=\"font-weight:bold;\">Austria<br />Total : 1</span><br />Clinical Pharmacology & Toxicology (1)"
           }
         },
         
         "RO": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Romania</span><br />Total : 2<br />Adult Neurology (1)<br />Physical Med & Rehabilitation (1)"
+            content: "<span style=\"font-weight:bold;\">Romania<br />Total : 2</span><br />Adult Neurology (1)<br />Physical Med & Rehabilitation (1)"
           }
         },
         
         "NE": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Nigeria</span><br />Total : 1<br />Adult Respiratory Medicine (1)"
+            content: "<span style=\"font-weight:bold;\">Nigeria<br />Total : 1</span><br />Adult Respiratory Medicine (1)"
           }
         },
         
         "IQ": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Iraq</span><br />Total : 1<br />Adult Nephrology (1)"
+            content: "<span style=\"font-weight:bold;\">Iraq<br />Total : 1</span><br />Adult Nephrology (1)"
           }
         },
         
         "CH": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Switzerland</span><br />Total : 4<br />Adult Cardiology (1)<br />Adult Neurology (1)<br />Adult Respiratory Therapy (1)<br />Dermatology (1)"
+            content: "<span style=\"font-weight:bold;\">Switzerland<br />Total : 4</span><br />Adult Cardiology (1)<br />Adult Neurology (1)<br />Adult Respiratory Therapy (1)<br />Dermatology (1)"
           }
         },
         
         "LB": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Lebanon</span><br />Total : 2<br />Genera Internal Medicine (1)<br />Medical Oncology (1)"
+            content: "<span style=\"font-weight:bold;\">Lebanon<br />Total : 2</span><br />Genera Internal Medicine (1)<br />Medical Oncology (1)"
           }
         },
         
         "IL": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Romania</span><br />Total : 2<br />Adult Cardiology (9)<br />Adult Gastroenterology (1)<br />Adult Haematology (1)<br />Adult Neurology (3)<br />Adult Respiratory Medicine (1)<br />Adult Rheumatology (3)<br />Clinical Pharmacology & Toxicology (1)<br />Dermatology (1)<br />Medical Oncology (5)"
+            content: "<span style=\"font-weight:bold;\">Romania<br />Total : 2</span><br />Adult Cardiology (9)<br />Adult Gastroenterology (1)<br />Adult Haematology (1)<br />Adult Neurology (3)<br />Adult Respiratory Medicine (1)<br />Adult Rheumatology (3)<br />Clinical Pharmacology & Toxicology (1)<br />Dermatology (1)<br />Medical Oncology (5)"
           }
         },
         
         "MK": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Macedonia</span><br />Total : 1<br />Clinical Pharmacology & Toxicology (1)"
+            content: "<span style=\"font-weight:bold;\">Macedonia<br />Total : 1</span><br />Clinical Pharmacology & Toxicology (1)"
           }
         },
         
         "LY": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Libya</span><br />Total : 1<br />Adult Rheumatology (1)"
+            content: "<span style=\"font-weight:bold;\">Libya<br />Total : 1</span><br />Adult Rheumatology (1)"
           }
         },
         
         "NZ": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">New Zeland</span><br />Total : 2<br />Adult Cardiology (1)<br />Adult Haematology (1)<br />Adult Nephrology (1)"
+            content: "<span style=\"font-weight:bold;\">New Zeland<br />Total : 2</span><br />Adult Cardiology (1)<br />Adult Haematology (1)<br />Adult Nephrology (1)"
           }
         },
         
         "AU": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Australia</span><br />Total : 21<br />Adul Cardiology (6)<br />Adult Gastroenterology (1)<br />Adult Haematology (2)<br />Adult Neurology (1)<br />Adult Respiratory Medicine (1)<br />Medical Oncology (10)"
+            content: "<span style=\"font-weight:bold;\">Australia<br />Total : 21</span><br />Adul Cardiology (6)<br />Adult Gastroenterology (1)<br />Adult Haematology (2)<br />Adult Neurology (1)<br />Adult Respiratory Medicine (1)<br />Medical Oncology (10)"
           }
         },
         
         "EG": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Egypt</span><br />Total : 6<br />Adul Cardiology (2)<br />Adult Haematology (2)<br />Adult Nephrology (1)<br />General Internal Medicine (1)"
+            content: "<span style=\"font-weight:bold;\">Egypt<br />Total : 6</span><br />Adul Cardiology (2)<br />Adult Haematology (2)<br />Adult Nephrology (1)<br />General Internal Medicine (1)"
           }
         },
         
         "NP": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Nepal</span><br />Total : 2<br />Dermatology (1)<br />Medical Oncology (1)"
+            content: "<span style=\"font-weight:bold;\">Nepal<br />Total : 2</span><br />Dermatology (1)<br />Medical Oncology (1)"
           }
         }
         }
