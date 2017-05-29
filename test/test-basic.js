@@ -16,7 +16,7 @@ $(function() {
         /* Create the basic map! */
         $(".mapcontainer").mapael($.extend(true, {}, CST_MAPCONF_NOANIMDURATION, {
             map: {
-                name: "france_departments"
+                name: "world_countries_miller"
             }
         }));
 
@@ -35,7 +35,7 @@ $(function() {
     QUnit.test("Instance destruction", function(assert) {
         
         $(".mapcontainer").mapael($.extend(true, {}, CST_MAPCONF_NOANIMDURATION, {
-            map: { name: "france_departments" }
+            map: { name: "world_countries_miller" }
         }));
         
         assert.ok($(".mapcontainer svg")[0], "Map existing" );
@@ -51,13 +51,13 @@ $(function() {
     QUnit.test("Instance creation: existing map", function(assert) {
         
         $(".mapcontainer").mapael($.extend(true, {}, CST_MAPCONF_NOANIMDURATION, {
-            map: { name: "france_departments" }
+            map: { name: "world_countries_miller" }
         }));
         
         assert.ok($(".mapcontainer svg")[0], "First map existing" );
         
         $(".mapcontainer").mapael($.extend(true, {}, CST_MAPCONF_NOANIMDURATION, {
-            map: { name: "france_departments" }
+            map: { name: "world_countries_miller" }
         }));
         
         assert.ok($(".mapcontainer svg")[0], "Second map existing" );
@@ -83,7 +83,7 @@ $(function() {
         /* Error if map is hidden */
         assert.throws(function(){
             $(".mapcontainer").mapael($.extend(true, {}, CST_MAPCONF_NOANIMDURATION, {
-                map: { name: "france_departments" }
+                map: { name: "world_countries_miller" }
             }));
         }, "Throw error" );
         
@@ -97,7 +97,7 @@ $(function() {
         /* Create the map */
         $(".mapcontainer").mapael($.extend(true, {}, CST_MAPCONF_NOANIMDURATION, {
             map: {
-                name: "france_departments"
+                name: "world_countries_miller"
             }
         }));
 
@@ -129,7 +129,7 @@ $(function() {
         /* Create the map */
         $(".mapcontainer").mapael($.extend(true, {}, CST_MAPCONF_NOANIMDURATION, {
             map: {
-                name: "france_departments"
+                name: "world_countries_miller"
             }
         }));
         
