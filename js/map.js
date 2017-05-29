@@ -9,7 +9,7 @@ $(function () {
             },
             attrsHover: {
               "stroke-width": 1,
-              fill: "#008BB0"
+              fill: "#CECFCB"
             }
           }
         },
