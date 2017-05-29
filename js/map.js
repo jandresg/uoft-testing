@@ -26,7 +26,7 @@ $(function () {
               attrsHover: {
                 fill: "#008bb0"
               },
-              lable: "yes Total"
+              label: "yes Total"
             },
             {
               <!-- NO Total -->
