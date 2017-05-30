@@ -29,10 +29,12 @@
 		max-width: auto;
 		display: none;
 		color: #343434;
+		offset: 10;
     }
 	
 	#tab { 
 		display:inline-block; 
 		margin-left: 40px; 
 	}
+	
 	
