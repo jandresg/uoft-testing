@@ -505,7 +505,7 @@ $(function () {
         "US": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight: bold;\">United States<br />Total : 8</span><font size=\"-1\"><br />Adult Cardiology (2)<br />Adult Infectious Diseases (1)<br />Adult Rheumatology (1)<br />Adult Neurology (1)<br />Medical Oncology (2)<br />Physical Med & Rehab (1)</font>"
+            content: "<span style=\"font-weight: bold;\">United States<br />Total : 8</span><font size=\"-1\"><br /><&emsp> Adult Cardiology (2)<br />Adult Infectious Diseases (1)<br />Adult Rheumatology (1)<br />Adult Neurology (1)<br />Medical Oncology (2)<br />Physical Med & Rehab (1)</font>"
             }
           },
         
@@ -534,7 +534,7 @@ $(function () {
         "CN": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">China</span><font size=\"-1\"><br />Total : 3</span><font size=\"-1\"><br />Medical Oncology (1)<br />Adult Neurology (1)<br />Adult Cardiology (1)</font>"
+            content: "<span style=\"font-weight:bold;\">China<br />Total : 3</span><font size=\"-1\"><br />Medical Oncology (1)<br />Adult Neurology (1)<br />Adult Cardiology (1)</font>"
           }
         },
         
