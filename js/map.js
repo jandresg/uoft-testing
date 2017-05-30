@@ -5,7 +5,7 @@ $(function () {
           defaultArea: {
             attrs: {
               stroke: "#fff", "stroke-width": .5,
-              fill: "#CECFCB"
+              fill: "#CECFCB"A
             },
             attrsHover: {
               "stroke-width": 1,
@@ -504,6 +504,7 @@ $(function () {
 */
         "US": {
           value: "1",
+          
           tooltip: {
             content: "<span style=\"font-weight: bold;\">United States<br />Total : 8</span><font size=\"-1\"><br /><&emsp> Adult Cardiology (2)<br />Adult Infectious Diseases (1)<br />Adult Rheumatology (1)<br />Adult Neurology (1)<br />Medical Oncology (2)<br />Physical Med & Rehab (1)</font>"
             }
