@@ -5,7 +5,7 @@ $(function () {
           defaultArea: {
             attrs: {
               stroke: "#fff", "stroke-width": .5,
-              fill: "#CECFCB"A
+              fill: "#CECFCB"
             },
             attrsHover: {
               "stroke-width": 1,
