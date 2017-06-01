@@ -1,9 +1,35 @@
+	@font-face {
+		font-family: 'Bembo';
+		src: url('../fonts/BemboStd.eot');
+		src: url('../fonts/BemboStd.eot?#iefix') format('embedded-opentype'), url('../fonts/BemboStd.woff') format('woff'), url('../fonts/Bembo.ttf') format('truetype');
+			font-weight: bold;
+			font-style: normal;
+	}
+	
+	@font-face {
+		font-family: 'TradeGothic20';
+		src: url('../fonts/TradeGothic20.eot');
+		src: url('../fonts/TradeGothic20.eot?#iefix') format('embedded-opentype'), url('../fonts/TradeGothic20.woff') format('woff'), url('../fonts/TradeGothic20.ttf') format('truetype');
+			font-weight: bold;
+			font-style: normal;
+	}
+	
+	@font-face {
+		font-family: 'TradeGothic18';
+		src: url('../fontsTradeGothic18.eot');
+		src: url('../fonts/TradeGothic18.eot?#iefix') format('embedded-opentype'), url('../fonts/TradeGothic18.woff') format('woff'), url('../fonts/TradeGothic18.ttf') format('truetype');
+			font-weight: bold;
+			font-style: normal;
+	}
+
 	body {
 		color: #5d5d5d;
 		font-family: Helvetica, Arial, sans-serif;
 	}
 	h1 {
-    	font-size: 20px;
+		font-family: 'Bembo';
+    	font-size: 40px;
+    	font-weight: bold;
 		margin: auto;
 		margin-top: 50px;
     }
