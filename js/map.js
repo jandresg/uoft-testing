@@ -520,7 +520,7 @@ $(function () {
         "IN": {
           value: "1",
           tooltip: {
-	            content: "<span style=\"font-family: TradeGothic20; font-weight: bold;\">India<br />Total : 18</span><font style=\"font-family: TradeGothic18;\"size=\"2\"><br /> Cardiology (3)<br /> Haematology (3)<br /> Nephrology (4)<br /> Neurology (1)<br /> Respiratory Medicine (2)<br />Dermatology (1)<br />General Internal Medicine (1)<br />Medical Oncology (1)<br />Physical Med & Rehabilitation (1)</font>"
+	            content: "<span style=\"font-family: TradeGothic20; font-weight: bold;\">India<br />Total : 18</span><font style=\"font-family: TradeGothic18;\"size=\"2\"><br /> Cardiology (3)<br />Dermatology (1)<br />General Internal Medicine (1)<br />Haematology (3)<br />Medical Oncology (1)<br />Nephrology (4)<br />Neurology (1)<br />Physical Med & Rehabilitation (1)<br /> Respiratory Medicine (2)</font>"
 
           }
         },
@@ -913,14 +913,14 @@ $(function () {
         "AU": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-family: TradeGothic20; font-weight: bold;\">Australia<br />Total : 21</span><font style=\"font-family: TradeGothic18;\"size=\"2\"><br />Adul Cardiology (6)<br /> Gastroenterology (1)<br /> Haematology (2)<br /> Neurology (1)<br /> Respiratory Medicine (1)<br />Medical Oncology (10)</font>"
+            content: "<span style=\"font-family: TradeGothic20; font-weight: bold;\">Australia<br />Total : 21</span><font style=\"font-family: TradeGothic18; text-indent: 40px;\"size=\"2\"><br />Adult Cardiology (6)<br /> Gastroenterology (1)<br /> Haematology (2)<br />Medical Oncology (10)<br /> Neurology (1)<br /> Respiratory Medicine (1)</font>"
           }
         },
         
         "EG": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-family: TradeGothic20; font-weight: bold;\">Egypt<br />Total : 6</span><font style=\"font-family: TradeGothic18;\"size=\"2\"><br />Adul Cardiology (2)<br /> Haematology (2)<br /> Nephrology (1)<br />General Internal Medicine (1)</font>"
+            content: "<span style=\"font-family: TradeGothic20; font-weight: bold;\">Egypt<br />Total : 6</span><font style=\"font-family: TradeGothic18;\"size=\"2\"><br />Adul Cardiology (2)<br />General Internal Medicine (1)<br /> Haematology (2)<br /> Nephrology (1)</font>"
           }
         },
         
