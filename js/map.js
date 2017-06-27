@@ -1,4 +1,4 @@
-$(function () {
+$(function (mapMap) {
       $(".mapcontainer").mapael({
         map: {
           name: "world_countries_miller",
