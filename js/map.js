@@ -14,7 +14,7 @@ $(function () {
           }
         },
       <!-- legend area -->
-//       legend: {
+      legend: {
         area: {
           title: "Legend",
           slices: [
@@ -41,7 +41,7 @@ $(function () {
             }
           ]
         }
-//       },
+      },
       areas: {
 	      
 /*
