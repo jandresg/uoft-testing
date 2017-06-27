@@ -16,7 +16,7 @@ $(function () {
       <!-- legend area -->
       legend: {
         area: {
-          title: "Totalhips for 2017",
+          title: "Legend",
           slices: [
             {
               max: 1,
@@ -26,7 +26,7 @@ $(function () {
               attrsHover: {
                 fill: "#008bb0"
               },
-              label: "yes Total"
+              label: "Fellows"
             },
             {
               <!-- NO Total -->
@@ -37,7 +37,7 @@ $(function () {
               attrsHover: {
                 fill: "#CECFCB"
               },
-              label: "no Total"
+              label: "No Fellows"
             }
           ]
         }
@@ -808,7 +808,7 @@ $(function () {
         "DZ": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-family: TradeGothic20; font-weight: bold;\">Algeria<br />Total : 1</span><font style=\"font-family: TradeGothic18;\"size=\"2\"><br /> Haematology(1)</font>"
+            content: "<span style=\"font-family: TradeGothic20; font-weight: bold;\">Algeria<br />Total : 1</span><font style=\"font-family: TradeGothic18;\"size=\"2\"><br /> Haematology (1)</font>"
           }
         },
         
