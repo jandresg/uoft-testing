@@ -1,0 +1,72 @@
+//json file for the country's looping 
+[
+	{
+		name: "Algeria", 
+		fellows: "1 Fellow"
+	},
+	{
+		name: "Antigua",
+		fellows: "1 Fellows"
+	},
+	{
+		name: "Argentina",
+		fellows: "3 Fellows"
+	},
+	{
+		name: "Australia",
+		fellows: "21 Fellows"
+	},
+	{
+		name: "Austria",
+		fellows: "1 Fellows"
+	},
+	{
+		name: "Austria",
+		fellows: "1 Fellow"
+	},
+	{
+		name: "Bangladesh",
+		fellows: "1 Fellow"
+	},
+	{
+		name: "Belgium",
+		fellows: "1 Fellow"
+	},
+	{
+		name: "Brazil",
+		fellows: "9 Fellows"
+	},
+	{
+		name: "Bruma",
+		fellows: "1 Fellow"
+	},
+	{
+		name: "Canada",
+		fellows: "116 Fellows"
+	},
+	{
+		name: "China",
+		fellows: "3 Fellows" 
+	},
+	{
+		name: "Colombia",
+		fellows: "2 Fellows"
+	},
+	{
+		name: "Costa Rica",
+		fellows: "1 Fellow"
+	},
+	{
+		name: "Egypt",
+		felllows: "6 Fellows"
+	},
+	{
+		name: "Finland",
+		fellows: "1 Fellow"
+	},
+	{
+		name: "France",
+		fellows: "2 Fellows"
+	},
+	
+]

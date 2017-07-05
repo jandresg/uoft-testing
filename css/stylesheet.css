@@ -34,6 +34,9 @@
 		margin-top: 50px;
 		text-align: right;
     }
+    .loopScript {
+	    pointer-events: auto;
+    }
 
     .container {
     	max-width: 800px;
@@ -58,6 +61,7 @@
 		color: #343434;
 		offset: 10;
     }
+    
 	
 	#tab { 
 		display:inline-block; 
