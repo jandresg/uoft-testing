@@ -595,7 +595,7 @@ $(function (mapMap) {
         "GR": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-family: TradeGothic20; font-weight: bold;\">Greece<br />Total : 2</span><font style=\"font-family: TradeGothic18;\"size=\"2\"><br /> Rheumatology (1)<br /> Gastroenterology (1)</font>"
+            content: "<span style=\"font-family: TradeGothic20; font-weight: bold;\">Greece<br />Total : 2</span><font style=\"font-family: TradeGothic18;\"size=\"2\"><br /> Gastroenterology (1)<br /> Rheumatology (1)</font>"
           }
         },
 
@@ -679,7 +679,7 @@ $(function (mapMap) {
         "IT": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-family: TradeGothic20; font-weight: bold;\">Italy<br />Total : 4</span><font style=\"font-family: TradeGothic18;\"size=\"2\"><br /> Cardiology (1)<br /> Hematology (1)<br /> Respiratory Therapy (1)<br />Medical Oncology (1)</font>"
+            content: "<span style=\"font-family: TradeGothic20; font-weight: bold;\">Italy<br />Total : 4</span><font style=\"font-family: TradeGothic18;\"size=\"2\"><br /> Cardiology (1)<br /> Hematology (1)<br /> Respiratory Medicine (1)<br />Medical Oncology (1)</font>"
           }
         },
 
@@ -833,7 +833,7 @@ $(function (mapMap) {
         "SY": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-family: TradeGothic20; font-weight: bold;\">Syria<br />Total : 2</span><font style=\"font-family: TradeGothic18;\"size=\"2\"><br /> Neurology (1)<br />Medical Oncology (1)</font>"
+            content: "<span style=\"font-family: TradeGothic20; font-weight: bold;\">Syria<br />Total : 2</span><font style=\"font-family: TradeGothic18;\"size=\"2\"><br />Medical Oncology (1)<br /> Neurology (1)</font>"
           }
         },
 
@@ -868,7 +868,7 @@ $(function (mapMap) {
         "CH": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-family: TradeGothic20; font-weight: bold;\">Switzerland<br />Total : 4</span><font style=\"font-family: TradeGothic18;\"size=\"2\"><br /> Cardiology (1)<br />Dermatology (1)<br /> Neurology (1)<br /> Respiratory Therapy (1)</font>"
+            content: "<span style=\"font-family: TradeGothic20; font-weight: bold;\">Switzerland<br />Total : 4</span><font style=\"font-family: TradeGothic18;\"size=\"2\"><br /> Cardiology (1)<br />Dermatology (1)<br /> Neurology (1)<br /> Respiratory Medicine (1)</font>"
           }
         },
 
@@ -882,7 +882,7 @@ $(function (mapMap) {
         "IL": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-family: TradeGothic20; font-weight: bold;\">Israel<br />Total : 2</span><font style=\"font-family: TradeGothic18;\"size=\"2\"><br /> Cardiology (9)<br /> Gastroenterology (1)<br /> Hematology (1)<br /> Neurology (3)<br /> Respiratory Medicine (1)<br /> Rheumatology (3)<br />Clinical Pharmacology & Toxicology (1)<br />Dermatology (1)<br />Medical Oncology (5)</font>"
+            content: "<span style=\"font-family: TradeGothic20; font-weight: bold;\">Israel<br />Total : 25</span><font style=\"font-family: TradeGothic18;\"size=\"2\"><br /> Cardiology (9)<br />Clinical Pharmacology & Toxicology (1)<br />Dermatology (1)<br /> Gastroenterology (1)<br /> Hematology (1)<br />Medical Oncology (5)<br /> Neurology (3)<br /> Respiratory Medicine (1)<br /> Rheumatology (3)</font>"
           }
         },
 

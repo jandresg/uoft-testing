@@ -5,7 +5,7 @@
 			font-weight: bold;
 			font-style: normal;
 	}
-	
+
 	@font-face {
 		font-family: 'TradeGothic20';
 		src: url('../fonts/TradeGothic20.eot');
@@ -13,7 +13,7 @@
 			font-weight: bold;
 			font-style: normal;
 	}
-	
+
 	@font-face {
 		font-family: 'TradeGothic18';
 		src: url('../fontsTradeGothic18.eot');
@@ -26,15 +26,23 @@
 		color: #5d5d5d;
 		font-family: Helvetica, Arial, sans-serif;
 	}
+/*
 	h3 {
-		font-family: 'TradeGothic20';
-    	font-size: 40px;
-    	font-weight: bold;
+		font-family: 
 		margin: auto;
 		margin-top: 50px;
 		text-align: right;
 		color: black;
-    }
+		}
+*/
+	.mapHeader{
+		font-family: 'TradeGothic20';
+    	font-size: 40px;
+    	font-weight: bold;
+		color: black;
+		text-align: right;
+		}
+
     .loopScript {
 	    pointer-events: auto;
     }
@@ -62,14 +70,13 @@
 		color: #343434;
 		offset: 10;
     }
-    
-	
-	#tab { 
-		display:inline-block; 
-		margin-left: 40px; 
+
+
+	#tab {
+		display:inline-block;
+		margin-left: 40px;
 	}
-	
+
 	.font {
 		text-indent: 5em;
 	}
-	
