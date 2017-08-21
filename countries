@@ -1,0 +1,515 @@
+107	Adult Haematology	ALGERIA
+
+300	Adult Cardiology	ANTIGUA
+
+37	Adult Cardiology	ARGENTINA
+117	Adult Cardiology	ARGENTINA
+200	Adult Haematology	ARGENTINA
+
+113	Adult Respiratory Medicine	AUSTRALIA
+116	Medical Oncology	AUSTRALIA
+144	Medical Oncology	AUSTRALIA
+145	Medical Oncology	AUSTRALIA
+166	Medical Oncology	AUSTRALIA
+176	Adult Gastroenterology	AUSTRALIA
+252	Medical Oncology	AUSTRALIA
+256	Adult Haematology	AUSTRALIA
+271	Medical Oncology	AUSTRALIA
+274	Adult Cardiology	AUSTRALIA
+283	Medical Oncology	AUSTRALIA
+299	Adult Haematology	AUSTRALIA
+334	Adult Cardiology	AUSTRALIA
+340	Adult Cardiology	AUSTRALIA
+349	Medical Oncology	AUSTRALIA
+351	Medical Oncology	AUSTRALIA
+357	Adult Cardiology	AUSTRALIA
+385	Adult Cardiology	AUSTRALIA
+390	Adult Cardiology	AUSTRALIA
+408	Medical Oncology	AUSTRALIA
+414	Adult Neurology	AUSTRALIA
+
+345	Clin Pharmacology & Toxicology	AUSTRIA
+
+383	Adult Nephrology	BANGLADESH
+
+438	Adult Cardiology	BELGIUM
+
+5	Adult Neurology	BRAZIL
+104	Adult Nephrology	BRAZIL
+134	Adult Cardiology	BRAZIL
+159	Medical Oncology	BRAZIL
+268	Medical Oncology	BRAZIL
+287	Adult Cardiology	BRAZIL
+288	Adult Neurology	BRAZIL
+406	General Internal Medicine	BRAZIL
+428	Adult Neurology	BRAZIL
+
+109	Medical Oncology	BURMA
+
+3	Adult Haematology	CANADA
+18	General Internal Medicine	CANADA
+99	General Internal Medicine	CANADA
+100	Adult Cardiology	CANADA
+101	Adult Cardiology	CANADA
+103	Adult Nephrology	CANADA
+108	Adult Neurology	CANADA
+110	Adult Respiratory Medicine	CANADA
+114	Adult Cardiology	CANADA
+122	Adult Neurology	CANADA
+124	Adult Haematology	CANADA
+125	General Internal Medicine	CANADA
+126	Adult Haematology	CANADA
+132	Adult Infectious Diseases	CANADA
+136	Geriatric Medicine	CANADA
+138	General Internal Medicine	CANADA
+139	Physical Med & Rehabilitation	CANADA
+146	Adult Nephrology	CANADA
+151	Adult Respiratory Medicine	CANADA
+154	Adult Haematology	CANADA
+155	Adult Cardiology	CANADA
+157	Adult Neurology	CANADA
+161	Adult Haematology	CANADA
+168	Adult Respiratory Medicine	CANADA
+172	Medical Oncology	CANADA
+173	Adult Nephrology	CANADA
+177	Adult Cardiology	CANADA
+185	General Internal Medicine	CANADA
+187	Adult Gastroenterology	CANADA
+188	Medical Oncology	CANADA
+190	Medical Oncology	CANADA
+192	Adult Gastroenterology	CANADA
+193	Adult Haematology	CANADA
+196	Adult Respiratory Medicine	CANADA
+199	General Internal Medicine	CANADA
+203	General Internal Medicine	CANADA
+204	Adult Neurology	CANADA
+205	Adult Cardiology	CANADA
+206	Adult Endocrinol & Metabolism	CANADA
+208	Adult Cardiology	CANADA
+214	Adult Cardiology	CANADA
+223	Medical Oncology	CANADA
+226	Adult Cardiology	CANADA
+227	Adult Cardiology	CANADA
+229	Adult Cardiology	CANADA
+230	Adult Haematology	CANADA
+231	Medical Oncology	CANADA
+232	Adult Neurology	CANADA
+234	Adult Nephrology	CANADA
+236	Adult Neurology	CANADA
+240	Adult Neurology	CANADA
+241	General Internal Medicine	CANADA
+244	Medical Oncology	CANADA
+248	Adult Nephrology	CANADA
+251	Adult Cardiology	CANADA
+255	Adult Cardiology	CANADA
+257	Adult Respiratory Medicine	CANADA
+258	Adult Haematology	CANADA
+259	General Internal Medicine	CANADA
+260	Adult Cardiology	CANADA
+266	Adult Nephrology	CANADA
+267	General Internal Medicine	CANADA
+269	Adult Cardiology	CANADA
+272	Adult Nephrology	CANADA
+273	Adult Haematology	CANADA
+280	Adult Neurology	CANADA
+281	Adult Neurology	CANADA
+284	General Internal Medicine	CANADA
+285	Adult Nephrology	CANADA
+286	Adult Cardiology	CANADA
+290	Adult Infectious Diseases	CANADA
+291	Adult Rheumatology	CANADA
+293	Medical Oncology	CANADA
+303	Adult Cardiology	CANADA
+305	Medical Oncology	CANADA
+306	Dermatology	CANADA
+307	Adult Haematology	CANADA
+311	Adult Neurology	CANADA
+312	Adult Cardiology	CANADA
+314	Adult Gastroenterology	CANADA
+315	Medical Oncology	CANADA
+331	Adult Haematology	CANADA
+333	Adult Gastroenterology	CANADA
+338	Geriatric Medicine	CANADA
+359	Adult Neurology	CANADA
+360	Adult Nephrology	CANADA
+366	General Internal Medicine	CANADA
+368	Adult Neurology	CANADA
+380	Adult Respiratory Medicine	CANADA
+381	Adult Gastroenterology	CANADA
+396	Adult Gastroenterology	CANADA
+401	Dermatology	CANADA
+402	Physical Med & Rehabilitation	CANADA
+403	Adult Cardiology	CANADA
+407	Adult Nephrology	CANADA
+412	Adult Rheumatology	CANADA
+415	Medical Oncology	CANADA
+417	Adult Cardiology	CANADA
+418	Adult Cardiology	CANADA
+421	General Internal Medicine	CANADA
+422	Physical Med & Rehabilitation	CANADA
+424	General Internal Medicine	CANADA
+431	Adult Cardiology	CANADA
+432	Adult Nephrology	CANADA
+435	Emergency Medicine	CANADA
+436	Adult Neurology	CANADA
+437	Adult Respiratory Medicine	CANADA
+439	Adult Respiratory Medicine	CANADA
+440	Dermatology	CANADA
+442	Adult Cardiology	CANADA
+446	Adult Respiratory Medicine	CANADA
+447	Adult Endocrinol & Metabolism	CANADA
+448	General Internal Medicine	CANADA
+449	Adult Gastroenterology	CANADA
+451	Medical Oncology	CANADA
+453	Adult Cardiology	CANADA
+
+// 141	Medical Oncology	CHINA
+// 197	Adult Neurology	CHINA
+// 404	Adult Cardiology	CHINA
+
+178	Adult Cardiology	COLOMBIA
+301	Adult Rheumatology	COLOMBIA
+
+369	Dermatology	COSTA RICA
+
+32	Adult Cardiology	EGYPT
+183	Adult Nephrology	EGYPT
+186	Adult Cardiology	EGYPT
+249	Adult Haematology	EGYPT
+261	Adult Haematology	EGYPT
+372	General Internal Medicine	EGYPT
+
+429	Adult Respiratory Medicine	FINLAND
+
+12	Adult Infectious Diseases	FRANCE
+211	Adult Nephrology	FRANCE
+
+13	Adult Respiratory Medicine	GERMANY
+222	Adult Cardiology	GERMANY
+389	Adult Neurology	GERMANY
+443	Adult Neurology	GERMANY
+
+433	Adult Rheumatology	GREECE
+454	Adult Gastroenterology	GREECE
+
+-// 14	Adult Cardiology	INDIA
+98	Adult Nephrology	INDIA
+153	Medical Oncology	INDIA
+163	Medical Oncology	INDIA
+171	Adult Haematology	INDIA
+210	Adult Nephrology	INDIA
+213	Adult Nephrology	INDIA
+263	Adult Respiratory Medicine	INDIA
+264	Dermatology	INDIA
+276	Adult Haematology	INDIA
+295	Adult Nephrology	INDIA
+310	Physical Med & Rehabilitation	INDIA
+-// 328	Adult Cardiology	INDIA
+350	Adult Haematology	INDIA
+378	General Internal Medicine	INDIA
+-// 384	Adult Cardiology	INDIA
+409	Adult Neurology	INDIA
+410	Adult Respiratory Medicine	INDIA
+
+11	Adult Cardiology	IRAN
+111	General Internal Medicine	IRAN
+167	Adult Cardiology	IRAN
+218	General Internal Medicine	IRAN
+323	Adult Gastroenterology	IRAN
+364	Adult Neurology	IRAN
+370	Adult Neurology	IRAN
+376	General Internal Medicine	IRAN
+377	General Internal Medicine	IRAN
+423	Adult Neurology	IRAN
+
+215	Adult Nephrology	IRAQ
+
+1	Adult Nephrology	IRELAND/EIRE
+129	Adult Gastroenterology	IRELAND/EIRE
+135	Adult Neurology	IRELAND/EIRE
+175	Medical Oncology	IRELAND/EIRE
+184	Adult Rheumatology	IRELAND/EIRE
+201	Adult Gastroenterology	IRELAND/EIRE
+238	Adult Nephrology	IRELAND/EIRE
+247	Adult Nephrology	IRELAND/EIRE
+265	Adult Nephrology	IRELAND/EIRE
+296	Adult Nephrology	IRELAND/EIRE
+298	Adult Cardiology	IRELAND/EIRE
+319	Adult Haematology	IRELAND/EIRE
+320	Adult Respiratory Medicine	IRELAND/EIRE
+329	Adult Haematology	IRELAND/EIRE
+332	Adult Cardiology	IRELAND/EIRE
+339	Adult Cardiology	IRELAND/EIRE
+411	Adult Haematology	IRELAND/EIRE
+419	Adult Nephrology	IRELAND/EIRE
+441	Adult Nephrology	IRELAND/EIRE
+
+4	Adult Neurology	ISRAEL
+9	Adult Cardiology	ISRAEL
+106	Adult Cardiology	ISRAEL
+119	Adult Cardiology	ISRAEL
+131	Medical Oncology	ISRAEL
+142	Adult Cardiology	ISRAEL
+174	Dermatology	ISRAEL
+180	Adult Rheumatology	ISRAEL
+181	Adult Cardiology	ISRAEL
+182	Adult Gastroenterology	ISRAEL
+194	Adult Rheumatology	ISRAEL
+195	Adult Cardiology	ISRAEL
+207	Medical Oncology	ISRAEL
+225	Medical Oncology	ISRAEL
+282	Adult Respiratory Medicine	ISRAEL
+317	Medical Oncology	ISRAEL
+342	Clin Pharmacology & Toxicology	ISRAEL
+346	Adult Rheumatology	ISRAEL
+352	Adult Cardiology	ISRAEL
+391	Adult Neurology	ISRAEL
+397	Medical Oncology	ISRAEL
+400	Adult Haematology	ISRAEL
+413	Adult Neurology	ISRAEL
+444	Adult Cardiology	ISRAEL
+450	Adult Haematology	ISRAEL
+455	Adult Cardiology	ISRAEL
+
+158	Medical Oncology	ITALY
+160	Adult Cardiology	ITALY
+189	Adult Haematology	ITALY
+343	Adult Respiratory Medicine	ITALY
+
+156	Adult Cardiology	JAMAICA
+198	Adult Respiratory Medicine	JAMAICA
+209	Adult Cardiology	JAMAICA
+217	Adult Rheumatology	JAMAICA
+297	Adult Rheumatology	JAMAICA
+362	Adult Cardiology	JAMAICA
+445	Adult Cardiology	JAMAICA
+
+-// 224	Dermatology	JAPAN
+-// 228	Adult Respiratory Medicine	JAPAN
+-// 235	Adult Respiratory Medicine	JAPAN
+-// 237	Adult Neurology	JAPAN
+-// 239	Adult Gastroenterology	JAPAN
+-// 326	Medical Oncology	JAPAN
+-// 327	Adult Infectious Diseases	JAPAN
+-// 398	Adult Gastroenterology	JAPAN
+-// 399	Adult Infectious Diseases	JAPAN
+-// 425	Adult Endocrinol & Metabolism	JAPAN
+-// 430	Adult Cardiology	JAPAN
+
+2	Medical Oncology	JORDAN
+6	Dermatology	JORDAN
+26	Adult Haematology	JORDAN
+38	Medical Oncology	JORDAN
+48	Adult Haematology	JORDAN
+72	Adult Nephrology	JORDAN
+164	Adult Haematology	JORDAN
+375	Medical Oncology	JORDAN
+
+394	General Internal Medicine	JORDAN
+
+27	Adult Nephrology	KUWAIT
+31	Adult Gastroenterology	KUWAIT
+51	Adult Rheumatology	KUWAIT
+58	Adult Endocrinol & Metabolism	KUWAIT
+81	Dermatology	KUWAIT
+88	Emergency Medicine	KUWAIT
+
+325	General Internal Medicine	LEBANON
+358	Medical Oncology	LEBANON
+
+337	Adult Rheumatology	LIBYA
+
+289	Clin Pharmacology & Toxicology	MACEDONIA
+
+279	Medical Oncology	MALAYSIA
+321	Adult Cardiology	MALAYSIA
+330	Adult Gastroenterology	MALAYSIA
+427	Physical Med & Rehabilitation	MALAYSIA
+
+133	Adult Haematology	MEXICO
+165	Adult Haematology	MEXICO
+336	Adult Neurology	MEXICO
+
+356	Medical Oncology	NEPAL
+393	Dermatology	NEPAL
+
+322	Adult Neurology	NETHERLANDS
+388	Adult Neurology	NETHERLANDS
+
+147	Adult Haematology	NEW ZEALAND
+363	Adult Nephrology	NEW ZEALAND
+386	Adult Cardiology	NEW ZEALAND
+
+8	Adult Respiratory Medicine	NIGERIA
+
+19	Adult Gastroenterology	OMAN
+24	Emergency Medicine	OMAN
+367	Medical Oncology	OMAN
+
+10	Adult Nephrology	PAKISTAN
+15	Adult Nephrology	PAKISTAN
+16	Adult Cardiology	PAKISTAN
+150	Adult Infectious Diseases	PAKISTAN
+179	Adult Cardiology	PAKISTAN
+304	Adult Cardiology	PAKISTAN
+309	Adult Neurology	PAKISTAN
+318	Adult Cardiology	PAKISTAN
+324	General Internal Medicine	PAKISTAN
+353	Adult Nephrology	PAKISTAN
+
+118	Adult Haematology	PHILIPPINES
+243	Adult Cardiology	PHILIPPINES
+355	Adult Nephrology	PHILIPPINES
+
+// 169	Medical Oncology	PORTUGAL
+
+128	Adult Neurology	ROMANIA
+254	Physical Med & Rehabilitation	ROMANIA
+
+91	Adult Infectious Diseases	RWANDA
+
+20	Adult Cardiology	SAUDI ARABIA
+21	Adult Nephrology	SAUDI ARABIA
+22	Adult Endocrinol & Metabolism	SAUDI ARABIA
+25	Adult Rheumatology	SAUDI ARABIA
+29	Adult Infectious Diseases	SAUDI ARABIA
+30	Adult Haematology	SAUDI ARABIA
+33	Adult Haematology	SAUDI ARABIA
+34	Adult Cardiology	SAUDI ARABIA
+35	Adult Neurology	SAUDI ARABIA
+36	Adult Rheumatology	SAUDI ARABIA
+39	Adult Infectious Diseases	SAUDI ARABIA
+41	Adult Nephrology	SAUDI ARABIA
+42	Adult Haematology	SAUDI ARABIA
+45	Adult Nephrology	SAUDI ARABIA
+46	Adult Rheumatology	SAUDI ARABIA
+47	Medical Oncology	SAUDI ARABIA
+49	Adult Neurology	SAUDI ARABIA
+50	Medical Oncology	SAUDI ARABIA
+52	Adult Haematology	SAUDI ARABIA
+53	Adult Rheumatology	SAUDI ARABIA
+54	Adult Gastroenterology	SAUDI ARABIA
+55	Adult Endocrinol & Metabolism	SAUDI ARABIA
+56	Adult Rheumatology	SAUDI ARABIA
+57	Adult Gastroenterology	SAUDI ARABIA
+59	Adult Haematology	SAUDI ARABIA
+60	Adult Endocrinol & Metabolism	SAUDI ARABIA
+61	Adult Cardiology	SAUDI ARABIA
+62	Adult Neurology	SAUDI ARABIA
+63	Adult Rheumatology	SAUDI ARABIA
+64	Adult Haematology	SAUDI ARABIA
+65	Adult Infectious Diseases	SAUDI ARABIA
+66	Adult Rheumatology	SAUDI ARABIA
+67	Adult Rheumatology	SAUDI ARABIA
+68	Adult Nephrology	SAUDI ARABIA
+69	Dermatology	SAUDI ARABIA
+70	Adult Neurology	SAUDI ARABIA
+71	Adult Respiratory Medicine	SAUDI ARABIA
+73	Emergency Medicine	SAUDI ARABIA
+74	Adult Neurology	SAUDI ARABIA
+75	Adult Rheumatology	SAUDI ARABIA
+76	Adult Infectious Diseases	SAUDI ARABIA
+78	Adult Cardiology	SAUDI ARABIA
+79	Dermatology	SAUDI ARABIA
+80	Adult Neurology	SAUDI ARABIA
+83	Adult Infectious Diseases	SAUDI ARABIA
+84	Adult Infectious Diseases	SAUDI ARABIA
+85	Adult Haematology	SAUDI ARABIA
+86	Adult Neurology	SAUDI ARABIA
+87	Adult Gastroenterology	SAUDI ARABIA
+89	Adult Nephrology	SAUDI ARABIA
+90	Adult Neurology	SAUDI ARABIA
+92	Adult Neurology	SAUDI ARABIA
+93	Adult Infectious Diseases	SAUDI ARABIA
+94	Adult Rheumatology	SAUDI ARABIA
+95	Adult Rheumatology	SAUDI ARABIA
+96	Adult Infectious Diseases	SAUDI ARABIA
+97	Adult Neurology	SAUDI ARABIA
+102	Adult Nephrology	SAUDI ARABIA
+127	Adult Infectious Diseases	SAUDI ARABIA
+137	Medical Oncology	SAUDI ARABIA
+191	Adult Neurology	SAUDI ARABIA
+216	Adult Rheumatology	SAUDI ARABIA
+219	Adult Endocrinol & Metabolism	SAUDI ARABIA
+250	Medical Oncology	SAUDI ARABIA
+292	Adult Haematology	SAUDI ARABIA
+361	Adult Rheumatology	SAUDI ARABIA
+379	Adult Cardiology	SAUDI ARABIA
+420	Adult Endocrinol & Metabolism	SAUDI ARABIA
+452	Adult Cardiology	SAUDI ARABIA
+
+347	Medical Oncology	SERBIA
+
+152	Emergency Medicine	SINGAPORE
+202	Adult Nephrology	SINGAPORE
+426	Emergency Medicine	SINGAPORE
+
+365	Medical Oncology	SLOVENIA
+
+278	General Internal Medicine	SOUTH KOREA
+
+112	Adult Respiratory Medicine	SPAIN
+140	Adult Haematology	SPAIN
+162	Adult Neurology	SPAIN
+308	Adult Neurology	SPAIN
+316	Adult Gastroenterology	SPAIN
+348	Adult Cardiology	SPAIN
+371	Adult Neurology	SPAIN
+
+105	Adult Gastroenterology	SRI-LANKA
+212	Physical Med & Rehabilitation	SRI-LANKA
+
+143	Adult Cardiology	ST LUCIA
+
+262	Adult Haematology	SUDAN
+313	Adult Cardiology	SUDAN
+
+115	Adult Neurology	SWITZERLAND
+242	Dermatology	SWITZERLAND
+270	Adult Respiratory Medicine	SWITZERLAND
+302	Adult Cardiology	SWITZERLAND
+
+253	Adult Neurology	SYRIA
+405	Medical Oncology	SYRIA
+
+245	Adult Neurology	THAILAND
+341	Adult Rheumatology	THAILAND
+374	Adult Nephrology	THAILAND
+416	Adult Gastroenterology	THAILAND
+
+382	Adult Rheumatology	TURKEY
+434	Adult Rheumatology	TURKEY
+
+17	Adult Cardiology	UNITED ARAB EMIRATE
+40	Adult Haematology	UNITED ARAB EMIRATE
+43	Adult Rheumatology	UNITED ARAB EMIRATE
+44	Adult Respiratory Medicine	UNITED ARAB EMIRATE
+77	Adult Gastroenterology	UNITED ARAB EMIRATE
+275	Occupational Medicine	UNITED ARAB EMIRATE
+294	Adult Haematology	UNITED ARAB EMIRATE
+
+7	Adult Nephrology	UNITED KINGDOM
+120	Adult Cardiology	UNITED KINGDOM
+121	Adult Cardiology	UNITED KINGDOM
+123	Adult Nephrology	UNITED KINGDOM
+220	Adult Cardiology	UNITED KINGDOM
+221	Adult Gastroenterology	UNITED KINGDOM
+233	Adult Cardiology	UNITED KINGDOM"
+246	Adult Nephrology	UNITED KINGDOM
+335	Medical Oncology	UNITED KINGDOM
+354	Adult Gastroenterology	UNITED KINGDOM
+373	Adult Cardiology	UNITED KINGDOM
+387	Adult Cardiology	UNITED KINGDOM
+392	Adult Cardiology	UNITED KINGDOM
+
+// 82	Adult Rheumatology	UNITED STATES
+// 130	Physical Med & Rehabilitation	UNITED STATES
+// 148	Adult Neurology	UNITED STATES
+// 149	Adult Cardiology	UNITED STATES
+// 170	Adult Cardiology	UNITED STATES
+// 277	Adult Infectious Diseases	UNITED STATES
+// 344	Medical Oncology	UNITED STATES
+// 395	Medical Oncology	UNITED STATES
+
+23	Adult Neurology	YEMEN
+28	Adult Haematology	YEMEN
